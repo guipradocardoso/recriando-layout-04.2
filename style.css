@@ -106,3 +106,8 @@ footer p {
   padding: 1.6rem;
   font-weight: 600;
 }
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+}
